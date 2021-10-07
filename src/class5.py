@@ -73,6 +73,17 @@ type(train['text'])
 
 term_freq(string_list)
 
+
+''' To do
+Tokenize
+term freq
+document freq --> if a word only appears once in the texts we could leave it out
+TF - IDF --> make it into a vector using dictvectorize from sklearn
+
+Tgen into the model but one-hot encoded
+
+
+'''
 '''
 
 # Create dataset
